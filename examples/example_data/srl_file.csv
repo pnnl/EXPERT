@@ -1,0 +1,6 @@
+id,text,ARG0,ARG1,VERB
+1,The quick brown fox jumped over the lazy dog,the quick brown fox,over the lazy dog,jumped
+2,The little dog met the cute cat,the little dog,the cute cat,met
+3,My cat knows the neighbor's fox,my cat,the neighbor's fox,knows
+4,The quick dog walks with the lazy cat,the quick dog,with the lazy cat,walks
+5,The dog and the cat play with the little fox,the dog and the cat,with the little fox,play
