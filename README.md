@@ -125,7 +125,10 @@ Examples for parsing the resulting XML files can be found in the GROBID Parsing 
 ####  vis.py
     - visualization functions, e.g. graphviz-based graph visualizations
  
-
+Graph Benchmarks
+Graph datasets can be accessed from the Berkeley Data Cloud (BDC): https://bdc.lbl.gov/wiki/6053a11a7428ae62f36b71a5/622f96a05735d3a51055c1cb_files/
+An account is required for access: https://bdc.lbl.gov/register/
+The BDC is a data sharing and management platform for US Government-supported nuclear nonproliferation research projects.
         
 
 _______________________________________________________________________________
